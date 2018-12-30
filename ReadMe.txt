@@ -1,0 +1,1 @@
+My attempt at explaining the Quadratic Weighted Kappa metric and simplifying the code used to calculate the metric between Actual and Predicted values in a multi-class setting. 
