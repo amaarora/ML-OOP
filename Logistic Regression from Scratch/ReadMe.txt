@@ -1,0 +1,1 @@
+The following notebook has been copied from fast.ai library and is present here for reference to my Medium article explaining the beautiful lecture taught by Jeremy Howard in his Machine Learning course. 
